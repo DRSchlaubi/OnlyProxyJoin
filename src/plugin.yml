@@ -1,0 +1,8 @@
+name: OnlyProxyJoin
+author: Schlaubi
+version: 1.0
+main: net.schlaubi.bukkit.onlyproxyjoin.Main
+commands:
+   onlyproxyjoin:
+      alias: [o]
+      
