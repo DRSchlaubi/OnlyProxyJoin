@@ -1,7 +1,7 @@
 name: OnlyProxyJoin
 author: Schlaubi
 version: 1.0
-main: net.schlaubi.bukkit.onlyproxyjoin.Main
+main: net.schlaubi.OnlyProxyJoin.Main
 commands:
    onlyproxyjoin:
       alias: [o]
