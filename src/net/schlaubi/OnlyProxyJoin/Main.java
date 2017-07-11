@@ -30,7 +30,7 @@ public class Main
     FileConfiguration cfg = YamlConfiguration.loadConfiguration(f);
     String s = cfg.getString("ProxyIP");
     if (s == null) {
-      cfg.set("KickMSG", "&cBitte Joine §ber den PROXY");
+      cfg.set("ProxyIP", "127.0.0.1");
     }
     String s1 = cfg.getString("KickMSG");
     if (s1 == null) {
